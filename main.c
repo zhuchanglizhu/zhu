@@ -6,6 +6,7 @@ int add(int x,int y)
 }
 int main()
 {
+    add(a,b);
 
  printf("hello caiyuan1211");
 }
